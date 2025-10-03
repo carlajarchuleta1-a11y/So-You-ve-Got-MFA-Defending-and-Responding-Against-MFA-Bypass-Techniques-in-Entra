@@ -40,11 +40,11 @@ host locally: https://janbakker.tech/running-evilginx-3-0-on-windows/
 
 __Slide 12: Conditional Access: Sign-in Risk (Identity Protection)__  
 
-https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-conditional-access-conditions#sign-in-risk  
+https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-conditional-access-conditions#sign-in-risk?WT.mc_id=MVP_473477    
 
 __Slide 13: On the same note…Idle Session Time Out__  
 
-https://learn.microsoft.com/en-us/microsoft-365/admin/manage/idle-session-timeout-web-apps?view=o365-worldwide#details-about-idle-session-timeout
+https://learn.microsoft.com/en-us/microsoft-365/admin/manage/idle-session-timeout-web-apps?view=o365-worldwide#details-about-idle-session-timeout?WT.mc_id=MVP_473477  
 
 __Slide 15: Conditional Access: Block Certain Device Platforms/User agents__  
 
@@ -129,10 +129,10 @@ https://www.silverfort.com/blog/using-mitm-to-bypass-fido2/
 
 __Slide 32-33: FIDO quirks__  
 https://www.linkedin.com/pulse/passwordlessphishing-resistant-considerations-entra-jay-kerai-zh6nc  
-https://learn.microsoft.com/en-us/powershell/module/microsoft.graph.identity.signins/update-mgpolicyauthorizationpolicy?view=graph-powershell-1.0#-allowedtousesspr  
+https://learn.microsoft.com/en-us/powershell/module/microsoft.graph.identity.signins/update-mgpolicyauthorizationpolicy?view=graph-powershell-1.0#-allowedtousesspr?WT.mc_id=MVP_473477    
 
 __Slide 34: PRT__  
-https://learn.microsoft.com/en-us/entra/identity/devices/concept-primary-refresh-token  
+https://learn.microsoft.com/en-us/entra/identity/devices/concept-primary-refresh-token?WT.mc_id=MVP_473477    
 
 __Slide 35: TPM/PRT__  
 
@@ -143,7 +143,7 @@ https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/
 
 __Slide 37: CAE Demo__  
 
-https://learn.microsoft.com/en-us/microsoft-365/enterprise/o365-data-locations?view=o365-worldwide  
+https://learn.microsoft.com/en-us/microsoft-365/enterprise/o365-data-locations?view=o365-worldwide?WT.mc_id=MVP_473477    
 
 __Slide 38: Conditional Access: Lock Down MFA registration/ Device Enrolment__  
 
