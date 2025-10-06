@@ -288,3 +288,5 @@ https://jeffreyappel.nl/aitm-mfa-phishing-attacks-in-combination-with-new-micros
 Using a terms of service Conditional Access can cause certain AiTMs to break: https://medium.com/@Sniffler/terms-of-what-1c05e191dc00  
 
 https://www.aitm-feed.com/blog/azure-front-door-aitm-phishing
+
+Browser Extension to Prevent AITMs by Cyberdrain: https://github.com/cyberdrain/Check
