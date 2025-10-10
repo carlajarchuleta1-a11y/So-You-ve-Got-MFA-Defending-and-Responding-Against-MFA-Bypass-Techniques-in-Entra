@@ -290,3 +290,5 @@ Using a terms of service Conditional Access can cause certain AiTMs to break: ht
 https://www.aitm-feed.com/blog/azure-front-door-aitm-phishing
 
 Browser Extension to Prevent AITMs by Cyberdrain: https://github.com/cyberdrain/Check
+
+https://medium.com/@ahaz1701/evilworker-da94ae171249
